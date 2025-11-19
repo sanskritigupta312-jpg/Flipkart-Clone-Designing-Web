@@ -4,4 +4,4 @@ This web is a clone web of Flipkart website.It is just a same design of Flipkart
 
 it is made by using HTML,CSS.
 
-It is only made for large screen devices
+It is only made for large screen devices.
